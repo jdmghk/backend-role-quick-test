@@ -1,4 +1,4 @@
-# 🏦 NestJS Wallet Service Take-Home Test
+# NestJS Wallet Service Take-Home Test
 
 This project implements a simple wallet service API using NestJS and TypeScript, focusing on clean architecture, robust transaction management, and error handling.
 
