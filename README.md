@@ -14,7 +14,7 @@ This project implements a simple wallet service API using NestJS and TypeScript,
 
 1.  **Clone the Repository:**
     ```bash
-    git clone 
+    git clone https://github.com/jdmghk/backend-role-quick-test
     cd backend-role-quick-test
     ```
 
